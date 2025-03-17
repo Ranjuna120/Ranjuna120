@@ -2,10 +2,10 @@
 
 
 
-- 👀 I’m interested in 
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning MERN Stack
--  Ask me about web development
-- 📫 How to reach me ...
+- 💬 Ask me about web development
+- 📫 How to reach me  
  
 
 <!---
