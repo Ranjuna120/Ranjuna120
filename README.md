@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
+-  Ask me about web development
 - 📫 How to reach me ...
  
 
