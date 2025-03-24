@@ -5,7 +5,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about web development
-- 📫 How to reach me  
+- 📫 How to reach me rivithranjuna60@gmail.com
  
  
 
