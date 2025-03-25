@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Rivith Ranjuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rivith ranjuna" height="30" width="40" /></a>
-<a href="https://fb.com/rivith ranjuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rivith ranjuna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rivith-ranjuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rivith ranjuna" height="30" width="40" /></a>
+<a href="https://fb.com/rivith ranjuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rivith-ranjuna" height="30" width="40" /></a>
 <a href="https://instagram.com/r_i_v_i_t_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_i_v_i_t_h" height="30" width="40" /></a>
 </p>
 
