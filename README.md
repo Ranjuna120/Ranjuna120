@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" /> </p>
+                                                  
                                                   HI😊, I'm Rivith Ranjuna
 
 
@@ -13,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjuna120" alt="ranjuna120" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rivithranjuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rivith-ranjuna" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rivith.ranjuna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rivith ranjuna" height="30" width="40" /></a>
