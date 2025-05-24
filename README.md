@@ -1,7 +1,7 @@
                                                         HI😊, I'm Rivith Ranjuna
 
  <p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="150" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="100" />
 </p>
 
 
