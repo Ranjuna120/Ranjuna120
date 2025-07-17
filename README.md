@@ -39,19 +39,6 @@
 
 ---
 
-<!-- Organizations Section -->
-<h3 align="center">Organizations</h3>
-<p align="center">
-  <a href="https://github.com/Godot-Archive" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/64797471?s=200&v=4" alt="Godot-Archive" width="40" height="40" />
-  </a>
-  <a href="https://github.com/another-org" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/your-org-id?s=200&v=4" alt="Another Org" width="40" height="40" />
-  </a>
-</p>
-
----
-
 <!-- Achievements Section -->
 <h2 align="center">🏆 Achievements</h2>
 
