@@ -18,6 +18,11 @@
 
 ---
 
+<!-- Profile Views Section -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ranjuna120&label=Profile%20views&color=0e75b6&style=flat" alt="ranjuna120" />
+</p>
+
 <!-- Connect With Me Section -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
