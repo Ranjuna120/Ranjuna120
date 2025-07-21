@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 😊, I'm Rivith Ranjuna</h1>
 <p align="center">
+  🚀 Transforming ideas into reality with code!<br>
   <em>Passionate about Software Engineering & Web Development</em>
 </p>
 
@@ -14,6 +15,8 @@
 - 👀 &nbsp;I’m interested in **Software Engineering**
 - 🌱 &nbsp;Currently learning **MERN Stack**
 - 💬 &nbsp;Ask me about **Web Development**
+- 🤝 &nbsp;I’m looking to collaborate on **Open Source Projects**
+- ⚡ &nbsp;Fun fact: I love solving algorithmic challenges and learning new tech!
 - 📫 &nbsp;Reach me at: <a href="mailto:rivithranjuna60@gmail.com">rivithranjuna60@gmail.com</a>
 
 ---
