@@ -113,3 +113,6 @@
 <p align="center">
   🚀 Always eager to learn and collaborate on exciting projects!
 </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F-Rivith Ranjuna-blue?style=for-the-badge" alt="Made with ❤️ by Rivith Ranjuna"/>
+</div>
