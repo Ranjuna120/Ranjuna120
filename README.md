@@ -1,3 +1,5 @@
+<p align="right"><img src="https://img.shields.io/github/followers/Ranjuna120?label=Follow&style=social" alt="GitHub followers"/> </p>
+
 <!-- Banner Section -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="120"/>
