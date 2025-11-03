@@ -56,10 +56,13 @@
 ---
 
 <!-- Achievements Section -->
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="trophy gif">
+  GitHub Achievements & Trophies
+</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjuna120&theme=flat&no-bg=true&margin-w=10&column=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ranjuna120&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=7" alt="GitHub Trophies" />
 </p>
 
 <!-- Custom Trophy-style Badges (optional, edit points as needed) -->
@@ -72,6 +75,7 @@
   <img src="https://img.shields.io/badge/Followers-1pt-lightgrey?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Experience-Newbie-blueviolet?style=for-the-badge&logo=github" />
 </p>
+
 
 ---
 
