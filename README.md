@@ -22,7 +22,16 @@
 - 📫 &nbsp;Reach me at: <a href="mailto:rivithranjuna60@gmail.com">rivithranjuna60@gmail.com</a>
 
 ---
-[![An image of @ranjuna120's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranjuna120)](https://holopin.io/@ranjuna120)
+
+<!-- Holopin Badges -->
+<h2 align="center">🎖️ Badges & Achievements</h2>
+
+<p align="center">
+  <a href="https://holopin.io/@ranjuna120">
+    <img src="https://holopin.me/ranjuna120" alt="Holopin badges" />
+  </a>
+</p>
+
 ---
 
 <!-- Profile Views Section -->
